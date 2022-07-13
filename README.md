@@ -1,6 +1,9 @@
-# CloudFlare-DDNS-v2
+# (forked from : timothymiller/cloudflare-ddns-v2)  for users in china 
 
-Improved version of Cloudflare DDNS. 
+
+# CloudFlare-DDNS
+
+Improved version of Cloudflare DDNS 
 
 (forked from : timothymiller/cloudflare-ddns)
 
