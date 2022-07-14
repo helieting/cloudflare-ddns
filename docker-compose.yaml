@@ -4,5 +4,5 @@ services:
     build: .
     container_name: cloudflare-ddns
     volumes: 
-      - /Users/helieting/containers/cloudflare-ddns/config.json:/config.json
+      - config.json:/config.json
     restart: unless-stopped
